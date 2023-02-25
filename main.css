@@ -880,9 +880,7 @@ img {
   }
   .information .rows .pieces {
     display: flex;
-    gap: 20px;
-    flex-direction: column;
-    align-items: flex-start;
+    gap: 10px;
   }
 }
 @media only screen and (max-width: 360px) {
@@ -924,9 +922,7 @@ img {
   }
   .information .rows .pieces {
     display: flex;
-    gap: 20px;
-    flex-direction: column;
-    align-items: flex-start;
+    gap: 5px;
   }
 }
 #prev {
